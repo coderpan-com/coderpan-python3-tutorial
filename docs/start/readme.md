@@ -17,7 +17,7 @@ sidebar_position: 00
 
 现在就开始吧！
 
-如果你已经是编程老手，想快速上手 Python 3，你的菜应该是 [《潘哥 Python3 教程：快速入门》](./quickstart/readme.md) 。
+如果你已经是编程老手，想快速上手 Python 3，你的菜应该是 [《潘哥 Python3 教程：快速入门》](../quickstart/readme.md) 。
 
 ## 目录
 
