@@ -45,9 +45,9 @@ Python 常用的内置数据类型：
   - [tuple - 元组](../stdtypes/tuple.md)
   - [range - 等差数列](../stdtypes/range.md)
 - 二进制系列
-  - [bytes - 字节](../stdtypes/bytes.md)
-  - [bytearray - 字节数组](../stdtypes/byearray.md)
-  - [memoryview - 内存视图](../stdtypes/memoryview.md)
+  - bytes - 字节
+  - bytearray - 字节数组
+  - memoryview - 内存视图]
 - 集合
   - [set - 集合](../stdtypes/set.md)
   - [frozenset - 不可变集合](../stdtypes/set.md#frozenset)
