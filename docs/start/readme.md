@@ -23,11 +23,10 @@ sidebar_position: 00
 
 - **`0 引言 Python 简介及其运行环境`**
   - [Python 简介](./about-python/about.md)
-  - [安装 Python](./about-python/install-python.md)
-  - [安装 VSCode](about-python/install-vscode.md)
-  - [什么是终端](about-python/terminal.md)
+  - [环境搭建](./about-python/env-setup.md)
   - [初识 Python 编程](about-python/python-programing.md)
   - [运行 Python 程序](about-python/run-python.md)
+  - [什么是终端](about-python/terminal.md)
 
 - **`第1章 基础语法`**
   - [1.1 标识符与保留字](basic-grammar/identifier-and-keyword.md)

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # 什么是终端
@@ -12,7 +12,7 @@ sidebar_position: 4
 
 ## 1. 打开 Windows `终端` 应用程序
 
-在 Windows 系统上，按键盘 `win + r` 键，输入 `cmd` 后，点键盘 `enter` 键，将会打开 Windows `终端` 应用程序。
+在 Windows 系统上，按键盘 `win + r` 键，输入 `cmd` 后，点键盘 `enter` 键，这样就打开了 Windows `终端` 应用程序。
 
 ![打开 Windows cmd](../images/run-cmd.png)
 

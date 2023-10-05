@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 4
 ---
 
 # 运行 Python 程序
@@ -16,12 +16,12 @@ sidebar_position: 6
 
 操作步骤：
 
-1、打开 Windows 菜单，搜索 `命令提示符`（也可以是终端或 Power Shell），点击打开；  
-2、输入 `python3` 启动 Python 交互模式；  
-3、输入代码 `print('Hello, World!')`，然后敲回车键；  
-4、将显示 `Hello, World!`  
-5、可以继续接着输入执行 Python 代码指令。  
-6、输入 `quit()` 或 `exit()` 退出 Python 交互模式窗口。
+step 1. [打开终端](./terminal.md)；  
+step 2. 输入 `python3` 启动 Python 交互模式；  
+step 3. 输入代码 `print('Hello, World!')`，然后敲回车键；  
+step 4. 将显示 `Hello, World!`  
+step 5. 可以继续接着输入执行 Python 代码指令。  
+step 6. 输入 `quit()` 或 `exit()` 退出 Python 交互模式窗口。
 
 ## 2 脚本模式
 
